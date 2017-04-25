@@ -14,7 +14,7 @@ Route::get('/', function(){
 
 });
 
-Route::get('about', function(){
+Route::get('that was a bug', function(){
 // here
 
 });
