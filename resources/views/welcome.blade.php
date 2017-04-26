@@ -85,7 +85,13 @@
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">
+<<<<<<< Updated upstream
                         LARAVEL FOR LIFE
+=======
+
+                        LARAVEL FOR LIFE
+
+>>>>>>> Stashed changes
                     </a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>

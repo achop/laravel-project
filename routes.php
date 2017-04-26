@@ -19,4 +19,6 @@ Route::get('that was a bug', function(){
 
 });
 
+Route::resourse('reports', 'RepostsController');
+
 // Whatever logic to add
