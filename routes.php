@@ -21,4 +21,5 @@ Route::get('that was a bug', function(){
 
 Route::resourse('reports', 'RepostsController');
 
+//hype
 // Whatever logic to add
